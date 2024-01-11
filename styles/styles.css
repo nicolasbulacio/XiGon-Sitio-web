@@ -1,0 +1,69 @@
+
+a{
+
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "poppins";
+    src: url(../fonts/Poppins/Poppins-Light.ttf);
+}
+.explicacionServicios{
+font-family: "poppins, sans-serif";
+
+} 
+
+*{
+    margin: 0;
+    padding: 0;
+}
+#sloganHome{
+    text-align: center;
+    color:rgb(14, 14, 14);
+    font-weight: 100;
+}
+.sloganHome{
+    text-align: center;
+    color: blanchedalmond;
+    font-weight: 100;
+}
+.fondoDelHome{
+background-image: url(../images/Banner\ Xigon.webp);
+background-size: 100%;
+background-repeat: no-repeat;
+}
+
+.fondoNavHome {
+    background-color: aliceblue;
+}
+.fondoHeaderHome{
+    background-color: aliceblue;
+}
+.homeNavEnlaces{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.imagenAsesoria{
+    width: 700px;
+    height: 500px;
+}
+.imagen{
+    width: 300px;
+    height: 300px;
+}
+.navLi{
+    display: inline;
+    padding: 3rem;
+}
+.slogan{
+    color: aliceblue;
+}
+
+.proyectosText{
+    background-color: aliceblue;
+    text-align: center;
+    color:rgb(14, 14, 14);
+    font-weight: 100;
+    
+}
